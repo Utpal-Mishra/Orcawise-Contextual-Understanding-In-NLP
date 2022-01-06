@@ -1,2 +1,2 @@
-# Orcawise-Contextual-Understanding-In-NLP
-Orcawise-Contextual-Understanding-In-Natural-Language-Processing
+# Contextual-Understanding-In-NLP
+Contextual-Understanding-In-Natural-Language-Processing
